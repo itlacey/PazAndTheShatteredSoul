@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/rat_attack.mp3-6ffc97b747fe429c24b1907cd0eb2a68.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/rat_attack.mp3"
+dest_files=[ "res://.import/rat_attack.mp3-6ffc97b747fe429c24b1907cd0eb2a68.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

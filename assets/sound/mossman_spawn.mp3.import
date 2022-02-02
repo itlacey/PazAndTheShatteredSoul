@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mossman_spawn.mp3-826d5a26f671bf62a7e9d5f61b107632.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/mossman_spawn.mp3"
+dest_files=[ "res://.import/mossman_spawn.mp3-826d5a26f671bf62a7e9d5f61b107632.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

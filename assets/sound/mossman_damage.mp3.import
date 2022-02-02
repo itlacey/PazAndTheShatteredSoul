@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mossman_damage.mp3-1b15c347531dc324810f6099a2329b65.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/mossman_damage.mp3"
+dest_files=[ "res://.import/mossman_damage.mp3-1b15c347531dc324810f6099a2329b65.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

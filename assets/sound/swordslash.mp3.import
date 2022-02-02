@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/swordslash.mp3-063bcff96ee66f105059c6ebe496ae7e.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/swordslash.mp3"
+dest_files=[ "res://.import/swordslash.mp3-063bcff96ee66f105059c6ebe496ae7e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

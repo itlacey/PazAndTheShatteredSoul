@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/boss_attack1_bombs.mp3-80646ffe94641ea99076eda33d4982ef.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/boss_attack1_bombs.mp3"
+dest_files=[ "res://.import/boss_attack1_bombs.mp3-80646ffe94641ea99076eda33d4982ef.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

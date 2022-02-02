@@ -1,0 +1,20 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "Akmon",
+	"display_name_bool": true,
+	"id": "character-1638756605.json",
+	"mirror_portraits": false,
+	"name": "Bird",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100
+}

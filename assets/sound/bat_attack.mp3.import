@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/bat_attack.mp3-e03a90db6305394498e733aa7fedbfa6.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/bat_attack.mp3"
+dest_files=[ "res://.import/bat_attack.mp3-e03a90db6305394498e733aa7fedbfa6.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

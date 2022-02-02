@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/rat_death.mp3-1cd5b9b5222f4e1e752e3324dd1bf3fc.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/rat_death.mp3"
+dest_files=[ "res://.import/rat_death.mp3-1cd5b9b5222f4e1e752e3324dd1bf3fc.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

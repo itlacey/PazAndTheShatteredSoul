@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/boss_attack3_lightning.mp3-b0cefd044a43a3992f388183f048cd46.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/boss_attack3_lightning.mp3"
+dest_files=[ "res://.import/boss_attack3_lightning.mp3-b0cefd044a43a3992f388183f048cd46.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "character-1638756605.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Avoidance isn't always cowardice, choosing your opportunities is wise, I would know... Turn back now, it's not worth it to climb out of this hole\" \n(press SHIFT to dash)"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1640717657.json",
+		"name": "dash"
+	}
+}

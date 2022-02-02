@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "character-1638756605.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Recovering pieces of yourself, smart. If you are taking my advice literally, consider giving up. its nice down here, no need to escap--leave.\n(press SPACE after jumping to jump again)"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1640720260.json",
+		"name": "jump"
+	}
+}

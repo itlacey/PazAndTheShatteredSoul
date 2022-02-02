@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/rat_idle.mp3-53b1bab6f500b392de4c207f899b8f88.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/rat_idle.mp3"
+dest_files=[ "res://.import/rat_idle.mp3-53b1bab6f500b392de4c207f899b8f88.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

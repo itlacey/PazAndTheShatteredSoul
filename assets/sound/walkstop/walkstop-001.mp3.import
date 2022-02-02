@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/walkstop-001.mp3-1525366b8f3ad10f4967150112e1f54b.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/walkstop/walkstop-001.mp3"
+dest_files=[ "res://.import/walkstop-001.mp3-1525366b8f3ad10f4967150112e1f54b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

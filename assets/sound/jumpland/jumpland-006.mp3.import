@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/jumpland-006.mp3-29d5d66b399c7badcb9c7f66a28aebe8.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/jumpland/jumpland-006.mp3"
+dest_files=[ "res://.import/jumpland-006.mp3-29d5d66b399c7badcb9c7f66a28aebe8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

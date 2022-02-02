@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://assets/theme/main.theme" type="Theme" id=1]
+[ext_resource path="res://code/QuitButton.gd" type="Script" id=2]
+
+[node name="QuitButton" type="Button"]
+margin_top = 118.0
+margin_right = 143.0
+margin_bottom = 174.0
+size_flags_vertical = 3
+theme = ExtResource( 1 )
+text = "Quit"
+script = ExtResource( 2 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[connection signal="button_up" from="." to="." method="_on_button_up"]

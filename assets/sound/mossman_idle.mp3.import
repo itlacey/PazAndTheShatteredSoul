@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mossman_idle.mp3-d71ed481ac9f9d03297d71645b6bf0b2.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/mossman_idle.mp3"
+dest_files=[ "res://.import/mossman_idle.mp3-d71ed481ac9f9d03297d71645b6bf0b2.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

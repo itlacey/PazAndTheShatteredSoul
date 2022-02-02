@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mossman_death.mp3-bae102d7c640121b89621223b0be9fba.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/mossman_death.mp3"
+dest_files=[ "res://.import/mossman_death.mp3-bae102d7c640121b89621223b0be9fba.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

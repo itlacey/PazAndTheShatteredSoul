@@ -1,0 +1,18 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://assets/theme/main.theme" type="Theme" id=1]
+
+[node name="Label" type="Label"]
+anchor_left = 0.5
+anchor_right = 0.5
+margin_left = -71.5
+margin_top = -171.0
+margin_right = 71.5
+margin_bottom = -157.0
+theme = ExtResource( 1 )
+text = "Devcember Game"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}

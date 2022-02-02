@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/rat_damage.mp3-1042c178c2332fe5a07905bd5218a71c.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/rat_damage.mp3"
+dest_files=[ "res://.import/rat_damage.mp3-1042c178c2332fe5a07905bd5218a71c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
